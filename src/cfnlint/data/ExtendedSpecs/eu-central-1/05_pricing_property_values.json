@@ -3,7 +3,6 @@
     "op": "add",
     "path": "/ValueTypes/Ec2InstanceType/AllowedValues",
     "value": [
-      "a1.2xlarge",
       "a1.4xlarge",
       "a1.large",
       "a1.medium",
@@ -483,7 +482,8 @@
       "ds2.8xlarge",
       "ds2.xlarge",
       "ra3.16xlarge",
-      "ra3.4xlarge"
+      "ra3.4xlarge",
+      "ra3.xlplus"
     ]
   },
   {
